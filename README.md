@@ -21,11 +21,19 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently working as a **Lead Developer** at **Pixelogic Studio**.
-- 🏗️ Previously architected high-throughput, distributed core prototypes processing billions of records at **PT Permodalan Nasional Madani**.
-- 💡 **6+ years** of experience in software engineering, primarily focused on Go, PHP, and Node.js ecosystems.
-- ⚡ Strong background in **system architecture, performance optimization**, and **scalable backend services** for e-commerce and enterprise workflows.
-- 💬 Ask me about **Go**, **Laravel**, **Microservices**, and **Database Optimization**.
+```json
+{
+  "current_role": "Lead Developer @ Pixelogic Studio",
+  "previous_role": "Architected distributed systems processing billions of records @ PT Permodalan Nasional Madani",
+  "experience": "6+ years in Go, PHP, and Node.js ecosystems",
+  "focus": [
+    "System Architecture",
+    "Performance Optimization",
+    "Scalable Backend Services"
+  ],
+  "ask_me_about": ["Go", "Laravel", "Microservices", "Database Optimization"]
+}
+```
 
 ## 🛠️ Tech Stack & Tools
 
