@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Hamada Ananta Burhanuddin! 👋</h1>
-  <h3>Lead Developer | Backend Architect | Full-stack Engineer</h3>
+  <h3>Lead Developer | Backend Engineer | Fullstack Engineer</h3>
   
   <p>
     Building high-traffic transactional platforms and scalable distributed systems.
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/hamada-ananta-burhanuddin-294837193/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:me@madacoda.dev">
+  <a href="mailto:me@madacoda.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-me%40madacoda.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -60,18 +60,10 @@
 
 ## 🚀 Featured Projects
 
-- [**Sepatu Compass**](https://sepatucompass.com) - Backend for webstore platform, enhancing online sales and customer engagement for a popular shoe brand.
-- [**Sekuya**](https://sekuya.io) - Digital platform for the Sekuya game aiming toward gamers, tech enthusiasts, and crypto.
-- [**Froyonion**](https://www.froyonion.com) - News platform for a youth media company focusing on engaging articles and multimedia.
-- [**Pelindo Whistleblowing System**](https://pelindobersih.pelindo.co.id) - Corporate portal for environmental cleanliness and whistleblowing.
+| Preview | Project & Description |
+| :--- | :--- |
+| <img src="./assets/sepatucompassi.png" width="300" /> | 🛒 <a href="https://sepatucompass.com" target="_blank"><b>Sepatu Compass</b></a><br/><br/>Backend for webstore platform, enhancing online sales and customer engagement for a popular shoe brand. |
+| <img src="./assets/sekuya.png" width="300" /> | 🎮 <a href="https://sekuya.io" target="_blank"><b>Sekuya</b></a><br/><br/>Digital platform for the Sekuya game aiming toward gamers, tech enthusiasts, and crypto. |
+| <img src="./assets/froyonion.png" width="300" /> | 📰 <a href="https://www.froyonion.com" target="_blank"><b>Froyonion</b></a><br/><br/>News platform for a youth media company focusing on engaging articles and multimedia. |
+| <img src="./assets/wbspelindo.png" width="300" /> | 🏢 <a href="https://pelindobersih.pelindo.co.id" target="_blank"><b>Pelindo Whistleblowing System</b></a><br/><br/>Corporate portal for environmental cleanliness and whistleblowing. |
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <i>Note: Be sure to replace <b>YOUR_GITHUB_USERNAME</b> in the stats URLs above with your actual GitHub username!</i>
-</div>
